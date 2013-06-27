@@ -1,0 +1,6 @@
+[submodule "deps/gstreamer"]
+	path = deps/gstreamer
+	url = git@github.com:elisescu/gstreamer.git
+[submodule "deps/gst-plugins-base"]
+	path = deps/gst-plugins-base
+	url = git@github.com:elisescu/gst-plugins-base.git
